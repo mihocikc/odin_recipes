@@ -6,7 +6,7 @@ profiles, so I already knew the absolute basics of html.</p>
 <p>Furthermore, my current role deals with html in WordPress, so I
 learned to hard code tables and lists, so the html tags and formatting wasn't 
 completely new to me. In fact, that was the easiest part.</p>
-<p>What I reall took away from this project was using VSCode
+<p>What I really took away from this project was using VSCode
 and Git in the Terminal to manage folders/files and commiting changes to 
 the local repository, then pushing to GitHub. Furthermore, I learned 
 how the files in folders like /recipes are linkable back to the 
